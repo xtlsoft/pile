@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "pile_vector.h": "c",
+        "pile_class.h": "c"
+    }
+}
