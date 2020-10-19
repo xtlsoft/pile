@@ -31,7 +31,7 @@ pile_int_t impl_fn(test_class, get_a)
 impl_construct(test_class, pile_int_t a)
 {
     self->a = a;
-    _assgin(test_class, get_a);
+    _assign(test_class, get_a);
 }
 impl_default_destruct(test_class);
 
